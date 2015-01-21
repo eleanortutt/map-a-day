@@ -1,4 +1,1589 @@
-{"type": "FeatureCollection", 
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-
-"features": [{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286118,38.67527]},"properties":{"address":"6116 Dr. Martin Luther King Drive","year1970":"King Louie Furniture","city":"St. Louis","state":"MO","cartodb_id":1,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286118,38.67527]},"properties":{"address":"6119 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":2,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.285873,38.675942]},"properties":{"address":"6123 Dr. Martin Luther King Drive","year1970":"Carpet Tile","city":"St. Louis","state":"MO","cartodb_id":3,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286331,38.6754]},"properties":{"address":"6124 Dr. Martin Luther King Drive","year1970":"S & L Credit Store/Vision Center","city":"St. Louis","state":"MO","cartodb_id":4,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.285873,38.675942]},"properties":{"address":"6125 Dr. Martin Luther King Drive","year1970":"Midwest Furniture","city":"St. Louis","state":"MO","cartodb_id":5,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286484,38.67548]},"properties":{"address":"6128 Dr. Martin Luther King Drive","year1970":"Coen's Furniture","city":"St. Louis","state":"MO","cartodb_id":6,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286064,38.675499]},"properties":{"address":"6134 Dr. Martin Luther King Drive","year1970":"Hosea's Hats","city":"St. Louis","state":"MO","cartodb_id":7,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286629,38.67556]},"properties":{"address":"6200 Dr. Martin Luther King Drive","year1970":"Madam Mae Clairvoyant","city":"St. Louis","state":"MO","cartodb_id":10,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286629,38.67556]},"properties":{"address":"6200 Dr. Martin Luther King Drive","year1970":"Wild Club (Democrats)","city":"St. Louis","state":"MO","cartodb_id":9,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286629,38.67556]},"properties":{"address":"6200 Dr. Martin Luther King Drive","year1970":"Mannisi Jewelers","city":"St. Louis","state":"MO","cartodb_id":8,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286446,38.675697]},"properties":{"address":"6202 Dr. Martin Luther King Drive","year1970":"Wellston Gateway Center","city":"St. Louis","state":"MO","cartodb_id":11,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286774,38.675629]},"properties":{"address":"6204 Dr. Martin Luther King Drive","year1970":"Pearl Paint and Wallpaper Stores","city":"St. Louis","state":"MO","cartodb_id":12,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.28624,38.676128]},"properties":{"address":"6205 Dr. Martin Luther King Drive","year1970":"First National Bank of Wellston","city":"St. Louis","state":"MO","cartodb_id":13,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286812,38.675892]},"properties":{"address":"6208 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":14,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286522,38.676262]},"properties":{"address":"6209 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":15,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.28685,38.675911]},"properties":{"address":"6210 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":16,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286652,38.676128]},"properties":{"address":"6211 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":17,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.287048,38.675739]},"properties":{"address":"6212 Dr. Martin Luther King Drive","year1970":"Happy Hollow Liquor Stores","city":"St. Louis","state":"MO","cartodb_id":18,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286659,38.676132]},"properties":{"address":"6213 Dr. Martin Luther King Drive","year1970":"Floyd Heckel Florists","city":"St. Louis","state":"MO","cartodb_id":19,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286919,38.675949]},"properties":{"address":"6214 Dr. Martin Luther King Drive","year1970":"Kolbrener Brokerage Inc.","city":"St. Louis","state":"MO","cartodb_id":20,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286659,38.676132]},"properties":{"address":"6215 Dr. Martin Luther King Drive","year1970":"Legal Aid","city":"St. Louis","state":"MO","cartodb_id":22,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286659,38.676132]},"properties":{"address":"6215 Dr. Martin Luther King Drive","year1970":"American Finance Corp.","city":"St. Louis","state":"MO","cartodb_id":21,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286667,38.676136]},"properties":{"address":"6217 Dr. Martin Luther King Drive","year1970":"Kopp Retail Shoes","city":"St. Louis","state":"MO","cartodb_id":23,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286675,38.676136]},"properties":{"address":"6219 Dr. Martin Luther King Drive","year1970":"Pacific Finance","city":"St. Louis","state":"MO","cartodb_id":24,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286675,38.67614]},"properties":{"address":"6221 Dr. Martin Luther King Drive","year1970":"Beauty Salon","city":"St. Louis","state":"MO","cartodb_id":25,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.286682,38.676144]},"properties":{"address":"6225 Dr. Martin Luther King Drive","year1970":"Brandon Brothers Furniture/Fairway Furniture","city":"St. Louis","state":"MO","cartodb_id":26,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.287613,38.67606]},"properties":{"address":"6226 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":27,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.28727,38.676132]},"properties":{"address":"6228 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":28,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.287293,38.676147]},"properties":{"address":"6230 Dr. Martin Luther King Drive","year1970":"Auto Union INsurance","city":"St. Louis","state":"MO","cartodb_id":29,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.287315,38.676159]},"properties":{"address":"6232 Dr. Martin Luther King Drive","year1970":"Pearlman's Sporting Goods and Loans","city":"St. Louis","state":"MO","cartodb_id":30,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.287766,38.676403]},"properties":{"address":"6240 Dr. Martin Luther King Drive","year1970":"Ward's Cut Rate Drugs","city":"St. Louis","state":"MO","cartodb_id":31,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.287804,38.676426]},"properties":{"address":"6250 Dr. Martin Luther King Drive","year1970":"Central Hardware Stores","city":"St. Louis","state":"MO","cartodb_id":32,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.288757,38.676689]},"properties":{"address":"6300 Dr. Martin Luther King Drive","year1970":"Western Auto Stores","city":"St. Louis","state":"MO","cartodb_id":33,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.28849,38.676792]},"properties":{"address":"6312 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":34,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.250481,38.65889]},"properties":{"address":"6313 Dr. Martin Luther King Drive","year1970":"State Dept. of Auto & Drivers License","city":"St. Louis","state":"MO","cartodb_id":36,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.250481,38.65889]},"properties":{"address":"6313 Dr. Martin Luther King Drive","year1970":"State Bank & Trust of Wellston","city":"St. Louis","state":"MO","cartodb_id":35,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.287521,38.676781]},"properties":{"address":"6317 Dr. Martin Luther King Drive","year1970":"Metropolitan Clinical Group","city":"St. Louis","state":"MO","cartodb_id":37,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.287651,38.676666]},"properties":{"address":"6319 Dr. Martin Luther King Drive","year1970":"Dial Finance Company","city":"St. Louis","state":"MO","cartodb_id":38,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.287552,38.677029]},"properties":{"address":"6321 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":39,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.287727,38.676704]},"properties":{"address":"6323 Dr. Martin Luther King Drive","year1970":"Hais Jewelry Company","city":"St. Louis","state":"MO","cartodb_id":40,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.287758,38.676724]},"properties":{"address":"6325 Dr. Martin Luther King Drive","year1970":"St. Louis Beauty Shop","city":"St. Louis","state":"MO","cartodb_id":41,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.287781,38.676899]},"properties":{"address":"6327 Dr. Martin Luther King Drive","year1970":"Gamm's Factory Outlet Shoes","city":"St. Louis","state":"MO","cartodb_id":42,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.28791,38.676991]},"properties":{"address":"6329 Dr. Martin Luther King Drive","year1970":"Bill/Dot's Circle Restaurant","city":"St. Louis","state":"MO","cartodb_id":43,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.28878,38.676949]},"properties":{"address":"6330 Dr. Martin Luther King Drive","year1970":"A & P Food Stores (parking lot)","city":"St. Louis","state":"MO","cartodb_id":44,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.288162,38.676933]},"properties":{"address":"6331 Dr. Martin Luther King Drive","year1970":"Loraines Beauty Shop","city":"St. Louis","state":"MO","cartodb_id":45,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.289947,38.677738]},"properties":{"address":"6333 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":46,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.288223,38.676968]},"properties":{"address":"6335 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":47,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.288117,38.677319]},"properties":{"address":"6339 Dr. Martin Luther King Drive","year1970":"Warehouse of Clothing","city":"St. Louis","state":"MO","cartodb_id":48,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.288437,38.677231]},"properties":{"address":"6341 Dr. Martin Luther King Drive","year1970":"Wellston Public School","city":"St. Louis","state":"MO","cartodb_id":49,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.288513,38.677124]},"properties":{"address":"6345 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":50,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.28875,38.677254]},"properties":{"address":"6353 Dr. Martin Luther King Drive","year1970":"Crown Auto Parts","city":"St. Louis","state":"MO","cartodb_id":51,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.288696,38.677391]},"properties":{"address":"6355 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":52,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.289307,38.676979]},"properties":{"address":"6356 Dr. Martin Luther King Drive","year1970":"A & P Food Stores","city":"St. Louis","state":"MO","cartodb_id":53,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.288818,38.677441]},"properties":{"address":"6357 Dr. Martin Luther King Drive","year1970":"Gene/Marvs' Tavern","city":"St. Louis","state":"MO","cartodb_id":55,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.288818,38.677441]},"properties":{"address":"6357 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":54,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.288925,38.677349]},"properties":{"address":"6359 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":56,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.288963,38.677509]},"properties":{"address":"6361 Dr. Martin Luther King Drive","year1970":"Crown Auto Parts Used Car Lot","city":"St. Louis","state":"MO","cartodb_id":57,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.289047,38.677551]},"properties":{"address":"6363 Dr. Martin Luther King Drive","year1970":"Kenbecg Co. Mfg. Ceiling Mouldings","city":"St. Louis","state":"MO","cartodb_id":58,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.289673,38.677151]},"properties":{"address":"6400 Dr. Martin Luther King Drive","year1970":"Laura Lauman","city":"St. Louis","state":"MO","cartodb_id":59,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.289337,38.677731]},"properties":{"address":"6401 Dr. Martin Luther King Drive","year1970":"Wellston Tire and Supply Co.","city":"St. Louis","state":"MO","cartodb_id":60,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.289581,38.677376]},"properties":{"address":"6402 Dr. Martin Luther King Drive","year1970":"Sarah Porter","city":"St. Louis","state":"MO","cartodb_id":61,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.2901,38.677132]},"properties":{"address":"6404 Dr. Martin Luther King Drive","year1970":"Evangelist Center C.O.G.I.C.","city":"St. Louis","state":"MO","cartodb_id":62,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.289551,38.677677]},"properties":{"address":"6405 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":63,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.289711,38.677898]},"properties":{"address":"6415 Dr. Martin Luther King Drive","year1970":"AAA Business Control Income Tax","city":"St. Louis","state":"MO","cartodb_id":64,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.290352,38.677239]},"properties":{"address":"6416 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":65,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.289505,38.677654]},"properties":{"address":"6419 Dr. Martin Luther King Drive","year1970":"Slade Candy & Tobacco Co. Wholesale","city":"St. Louis","state":"MO","cartodb_id":66,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.290558,38.67741]},"properties":{"address":"6420 Dr. Martin Luther King Drive","year1970":"David & Goliath Family Discount Grocery","city":"St. Louis","state":"MO","cartodb_id":67,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.289513,38.677662]},"properties":{"address":"6421 Dr. Martin Luther King Drive","year1970":"Industrial Maintenance","city":"St. Louis","state":"MO","cartodb_id":68,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.290306,38.678085]},"properties":{"address":"6501 Dr. Martin Luther King Drive","year1970":"Eljay Products Auto Repair","city":"St. Louis","state":"MO","cartodb_id":69,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.290237,38.678219]},"properties":{"address":"6503 Dr. Martin Luther King Drive","year1970":"Wellston Tailor Shop","city":"St. Louis","state":"MO","cartodb_id":70,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.290367,38.678116]},"properties":{"address":"6505 Dr. Martin Luther King Drive","year1970":"Clydes Heating Co.","city":"St. Louis","state":"MO","cartodb_id":71,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.290428,38.678146]},"properties":{"address":"6507 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":72,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.290604,38.678379]},"properties":{"address":"6511 Dr. Martin Luther King Drive","year1970":"St. Louis Stair (addition)","city":"St. Louis","state":"MO","cartodb_id":73,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.29097,38.677761]},"properties":{"address":"6512 Dr. Martin Luther King Drive","year1970":"Atlas Used Auto Parts and Cars","city":"St. Louis","state":"MO","cartodb_id":74,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.290665,38.678265]},"properties":{"address":"6515 Dr. Martin Luther King Drive","year1970":"St. Louis Stair Company","city":"St. Louis","state":"MO","cartodb_id":75,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.291313,38.677921]},"properties":{"address":"6520 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":76,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.290901,38.678539]},"properties":{"address":"6523 Dr. Martin Luther King Drive","year1970":"Thompson's Tavern","city":"St. Louis","state":"MO","cartodb_id":77,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.29155,38.678028]},"properties":{"address":"6528 Dr. Martin Luther King Drive","year1970":"Wellston News Dealers Wholesale News Dealers","city":"St. Louis","state":"MO","cartodb_id":78,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.291687,38.678089]},"properties":{"address":"6532 Dr. Martin Luther King Drive","year1970":"Myrtle Williams Music Teacher","city":"St. Louis","state":"MO","cartodb_id":80,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.291687,38.678089]},"properties":{"address":"6532 Dr. Martin Luther King Drive","year1970":"Virgil Nixon","city":"St. Louis","state":"MO","cartodb_id":79,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.291252,38.678742]},"properties":{"address":"6533 Dr. Martin Luther King Drive","year1970":"Fill's Conoco Service Station","city":"St. Louis","state":"MO","cartodb_id":81,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.291489,38.67886]},"properties":{"address":"6539 Dr. Martin Luther King Drive","year1970":"Pick and Save Grocery","city":"St. Louis","state":"MO","cartodb_id":82,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.291634,38.6791]},"properties":{"address":"6543 Dr. Martin Luther King Drive","year1970":"St. Louis Auto Sales and Used Cars","city":"St. Louis","state":"MO","cartodb_id":83,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.291534,38.678402]},"properties":{"address":"6546 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":84,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.29155,38.67841]},"properties":{"address":"6548 Dr. Martin Luther King Drive","year1970":"Moog Industries Storage","city":"St. Louis","state":"MO","cartodb_id":85,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.292221,38.679279]},"properties":{"address":"6601 Dr. Martin Luther King Drive","year1970":"Clark Oil and Refining (additional space)","city":"St. Louis","state":"MO","cartodb_id":86,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.292313,38.679138]},"properties":{"address":"6607 Dr. Martin Luther King Drive","year1970":"Clark Oil and Refining  ","city":"St. Louis","state":"MO","cartodb_id":87,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.29261,38.679482]},"properties":{"address":"6623 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":88,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.292763,38.679562]},"properties":{"address":"6627 Dr. Martin Luther King Drive","year1970":"Wellston Auto Radiator Service","city":"St. Louis","state":"MO","cartodb_id":89,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.293129,38.67984]},"properties":{"address":"6631 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":90,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.293541,38.679813]},"properties":{"address":"6649 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":91,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.293304,38.679348]},"properties":{"address":"6650 Dr. Martin Luther King Drive","year1970":"Moog Industries Storage","city":"St. Louis","state":"MO","cartodb_id":92,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.29351,38.680031]},"properties":{"address":"6659 Dr. Martin Luther King Drive","year1970":"Vacant","city":"St. Louis","state":"MO","cartodb_id":93,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.293503,38.679794]},"properties":{"address":"6669 Dr. Martin Luther King Drive","year1970":"Wellston Super Service Gas Station","city":"St. Louis","state":"MO","cartodb_id":94,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.295647,38.679489]},"properties":{"address":"6670 Dr. Martin Luther King Drive","year1970":"Flegel Materials Building Materials","city":"St. Louis","state":"MO","cartodb_id":95,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.29361,38.679524]},"properties":{"address":"6674 Dr. Martin Luther King Drive","year1970":"Arcadia Feed Mills","city":"St. Louis","state":"MO","cartodb_id":96,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.293564,38.679825]},"properties":{"address":"6675 Dr. Martin Luther King Drive","year1970":"Bob's Shell Service","city":"St. Louis","state":"MO","cartodb_id":97,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.293633,38.679539]},"properties":{"address":"6676 Dr. Martin Luther King Drive","year1970":"Allhoff Bros. Inc. Building Materials","city":"St. Louis","state":"MO","cartodb_id":98,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}},{"type":"Feature","geometry":{"type":"Point","coordinates":[-90.293709,38.679584]},"properties":{"address":"6682 Dr. Martin Luther King Drive","year1970":"Coolair Co. Heating Contractors","city":"St. Louis","state":"MO","cartodb_id":99,"created_at":"2015-01-21T06:06:55Z","updated_at":"2015-01-21T06:08:16Z","cartodb_georef_status":true}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286118,
+          38.67527
+        ]
+      },
+      "properties": {
+        "address": "6116 Dr. Martin Luther King Drive",
+        "year1970": "King Louie Furniture",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286118,
+          38.67527
+        ]
+      },
+      "properties": {
+        "address": "6119 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.285873,
+          38.675942
+        ]
+      },
+      "properties": {
+        "address": "6123 Dr. Martin Luther King Drive",
+        "year1970": "Carpet Tile",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286331,
+          38.6754
+        ]
+      },
+      "properties": {
+        "address": "6124 Dr. Martin Luther King Drive",
+        "year1970": "S & L Credit Store/Vision Center",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.285873,
+          38.675942
+        ]
+      },
+      "properties": {
+        "address": "6125 Dr. Martin Luther King Drive",
+        "year1970": "Midwest Furniture",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286484,
+          38.67548
+        ]
+      },
+      "properties": {
+        "address": "6128 Dr. Martin Luther King Drive",
+        "year1970": "Coen's Furniture",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286064,
+          38.675499
+        ]
+      },
+      "properties": {
+        "address": "6134 Dr. Martin Luther King Drive",
+        "year1970": "Hosea's Hats",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286629,
+          38.67556
+        ]
+      },
+      "properties": {
+        "address": "6200 Dr. Martin Luther King Drive",
+        "year1970": "Madam Mae Clairvoyant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286629,
+          38.67556
+        ]
+      },
+      "properties": {
+        "address": "6200 Dr. Martin Luther King Drive",
+        "year1970": "Wild Club (Democrats)",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286629,
+          38.67556
+        ]
+      },
+      "properties": {
+        "address": "6200 Dr. Martin Luther King Drive",
+        "year1970": "Mannisi Jewelers",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286446,
+          38.675697
+        ]
+      },
+      "properties": {
+        "address": "6202 Dr. Martin Luther King Drive",
+        "year1970": "Wellston Gateway Center",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286774,
+          38.675629
+        ]
+      },
+      "properties": {
+        "address": "6204 Dr. Martin Luther King Drive",
+        "year1970": "Pearl Paint and Wallpaper Stores",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28624,
+          38.676128
+        ]
+      },
+      "properties": {
+        "address": "6205 Dr. Martin Luther King Drive",
+        "year1970": "First National Bank of Wellston",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286812,
+          38.675892
+        ]
+      },
+      "properties": {
+        "address": "6208 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286522,
+          38.676262
+        ]
+      },
+      "properties": {
+        "address": "6209 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28685,
+          38.675911
+        ]
+      },
+      "properties": {
+        "address": "6210 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286652,
+          38.676128
+        ]
+      },
+      "properties": {
+        "address": "6211 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.287048,
+          38.675739
+        ]
+      },
+      "properties": {
+        "address": "6212 Dr. Martin Luther King Drive",
+        "year1970": "Happy Hollow Liquor Stores",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286659,
+          38.676132
+        ]
+      },
+      "properties": {
+        "address": "6213 Dr. Martin Luther King Drive",
+        "year1970": "Floyd Heckel Florists",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286919,
+          38.675949
+        ]
+      },
+      "properties": {
+        "address": "6214 Dr. Martin Luther King Drive",
+        "year1970": "Kolbrener Brokerage Inc.",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286659,
+          38.676132
+        ]
+      },
+      "properties": {
+        "address": "6215 Dr. Martin Luther King Drive",
+        "year1970": "Legal Aid",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286659,
+          38.676132
+        ]
+      },
+      "properties": {
+        "address": "6215 Dr. Martin Luther King Drive",
+        "year1970": "American Finance Corp.",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286667,
+          38.676136
+        ]
+      },
+      "properties": {
+        "address": "6217 Dr. Martin Luther King Drive",
+        "year1970": "Kopp Retail Shoes",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286675,
+          38.676136
+        ]
+      },
+      "properties": {
+        "address": "6219 Dr. Martin Luther King Drive",
+        "year1970": "Pacific Finance",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286675,
+          38.67614
+        ]
+      },
+      "properties": {
+        "address": "6221 Dr. Martin Luther King Drive",
+        "year1970": "Beauty Salon",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.286682,
+          38.676144
+        ]
+      },
+      "properties": {
+        "address": "6225 Dr. Martin Luther King Drive",
+        "year1970": "Brandon Brothers Furniture/Fairway Furniture",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.287613,
+          38.67606
+        ]
+      },
+      "properties": {
+        "address": "6226 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28727,
+          38.676132
+        ]
+      },
+      "properties": {
+        "address": "6228 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.287293,
+          38.676147
+        ]
+      },
+      "properties": {
+        "address": "6230 Dr. Martin Luther King Drive",
+        "year1970": "Auto Union INsurance",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.287315,
+          38.676159
+        ]
+      },
+      "properties": {
+        "address": "6232 Dr. Martin Luther King Drive",
+        "year1970": "Pearlman's Sporting Goods and Loans",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.287766,
+          38.676403
+        ]
+      },
+      "properties": {
+        "address": "6240 Dr. Martin Luther King Drive",
+        "year1970": "Ward's Cut Rate Drugs",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.287804,
+          38.676426
+        ]
+      },
+      "properties": {
+        "address": "6250 Dr. Martin Luther King Drive",
+        "year1970": "Central Hardware Stores",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.288757,
+          38.676689
+        ]
+      },
+      "properties": {
+        "address": "6300 Dr. Martin Luther King Drive",
+        "year1970": "Western Auto Stores",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28849,
+          38.676792
+        ]
+      },
+      "properties": {
+        "address": "6312 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28710901737213,
+          38.67646858568315
+        ]
+      },
+      "properties": {
+        "address": "6313 Dr. Martin Luther King Drive",
+        "year1970": "State Dept. of Auto & Drivers License",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28720021247864,
+          38.676493713271405
+        ]
+      },
+      "properties": {
+        "address": "6313 Dr. Martin Luther King Drive",
+        "year1970": "State Bank & Trust of Wellston",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.287521,
+          38.676781
+        ]
+      },
+      "properties": {
+        "address": "6317 Dr. Martin Luther King Drive",
+        "year1970": "Metropolitan Clinical Group",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.287651,
+          38.676666
+        ]
+      },
+      "properties": {
+        "address": "6319 Dr. Martin Luther King Drive",
+        "year1970": "Dial Finance Company",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.287552,
+          38.677029
+        ]
+      },
+      "properties": {
+        "address": "6321 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.287727,
+          38.676704
+        ]
+      },
+      "properties": {
+        "address": "6323 Dr. Martin Luther King Drive",
+        "year1970": "Hais Jewelry Company",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.287758,
+          38.676724
+        ]
+      },
+      "properties": {
+        "address": "6325 Dr. Martin Luther King Drive",
+        "year1970": "St. Louis Beauty Shop",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.287781,
+          38.676899
+        ]
+      },
+      "properties": {
+        "address": "6327 Dr. Martin Luther King Drive",
+        "year1970": "Gamm's Factory Outlet Shoes",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28791,
+          38.676991
+        ]
+      },
+      "properties": {
+        "address": "6329 Dr. Martin Luther King Drive",
+        "year1970": "Bill/Dot's Circle Restaurant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28878,
+          38.676949
+        ]
+      },
+      "properties": {
+        "address": "6330 Dr. Martin Luther King Drive",
+        "year1970": "A & P Food Stores (parking lot)",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.288162,
+          38.676933
+        ]
+      },
+      "properties": {
+        "address": "6331 Dr. Martin Luther King Drive",
+        "year1970": "Loraines Beauty Shop",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.289947,
+          38.677738
+        ]
+      },
+      "properties": {
+        "address": "6333 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.288223,
+          38.676968
+        ]
+      },
+      "properties": {
+        "address": "6335 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.288117,
+          38.677319
+        ]
+      },
+      "properties": {
+        "address": "6339 Dr. Martin Luther King Drive",
+        "year1970": "Warehouse of Clothing",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.288437,
+          38.677231
+        ]
+      },
+      "properties": {
+        "address": "6341 Dr. Martin Luther King Drive",
+        "year1970": "Wellston Public School",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.288513,
+          38.677124
+        ]
+      },
+      "properties": {
+        "address": "6345 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28875,
+          38.677254
+        ]
+      },
+      "properties": {
+        "address": "6353 Dr. Martin Luther King Drive",
+        "year1970": "Crown Auto Parts",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.288696,
+          38.677391
+        ]
+      },
+      "properties": {
+        "address": "6355 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.289307,
+          38.676979
+        ]
+      },
+      "properties": {
+        "address": "6356 Dr. Martin Luther King Drive",
+        "year1970": "A & P Food Stores",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.288818,
+          38.677441
+        ]
+      },
+      "properties": {
+        "address": "6357 Dr. Martin Luther King Drive",
+        "year1970": "Gene/Marvs' Tavern",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.288818,
+          38.677441
+        ]
+      },
+      "properties": {
+        "address": "6357 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.288925,
+          38.677349
+        ]
+      },
+      "properties": {
+        "address": "6359 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.288963,
+          38.677509
+        ]
+      },
+      "properties": {
+        "address": "6361 Dr. Martin Luther King Drive",
+        "year1970": "Crown Auto Parts Used Car Lot",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.289047,
+          38.677551
+        ]
+      },
+      "properties": {
+        "address": "6363 Dr. Martin Luther King Drive",
+        "year1970": "Kenbecg Co. Mfg. Ceiling Mouldings",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.289673,
+          38.677151
+        ]
+      },
+      "properties": {
+        "address": "6400 Dr. Martin Luther King Drive",
+        "year1970": "Laura Lauman",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.289337,
+          38.677731
+        ]
+      },
+      "properties": {
+        "address": "6401 Dr. Martin Luther King Drive",
+        "year1970": "Wellston Tire and Supply Co.",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.289581,
+          38.677376
+        ]
+      },
+      "properties": {
+        "address": "6402 Dr. Martin Luther King Drive",
+        "year1970": "Sarah Porter",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2901,
+          38.677132
+        ]
+      },
+      "properties": {
+        "address": "6404 Dr. Martin Luther King Drive",
+        "year1970": "Evangelist Center C.O.G.I.C.",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.289551,
+          38.677677
+        ]
+      },
+      "properties": {
+        "address": "6405 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.289711,
+          38.677898
+        ]
+      },
+      "properties": {
+        "address": "6415 Dr. Martin Luther King Drive",
+        "year1970": "AAA Business Control Income Tax",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.290352,
+          38.677239
+        ]
+      },
+      "properties": {
+        "address": "6416 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.289505,
+          38.677654
+        ]
+      },
+      "properties": {
+        "address": "6419 Dr. Martin Luther King Drive",
+        "year1970": "Slade Candy & Tobacco Co. Wholesale",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.290558,
+          38.67741
+        ]
+      },
+      "properties": {
+        "address": "6420 Dr. Martin Luther King Drive",
+        "year1970": "David & Goliath Family Discount Grocery",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.289513,
+          38.677662
+        ]
+      },
+      "properties": {
+        "address": "6421 Dr. Martin Luther King Drive",
+        "year1970": "Industrial Maintenance",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.290306,
+          38.678085
+        ]
+      },
+      "properties": {
+        "address": "6501 Dr. Martin Luther King Drive",
+        "year1970": "Eljay Products Auto Repair",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.290237,
+          38.678219
+        ]
+      },
+      "properties": {
+        "address": "6503 Dr. Martin Luther King Drive",
+        "year1970": "Wellston Tailor Shop",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.290367,
+          38.678116
+        ]
+      },
+      "properties": {
+        "address": "6505 Dr. Martin Luther King Drive",
+        "year1970": "Clydes Heating Co.",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.290428,
+          38.678146
+        ]
+      },
+      "properties": {
+        "address": "6507 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.290604,
+          38.678379
+        ]
+      },
+      "properties": {
+        "address": "6511 Dr. Martin Luther King Drive",
+        "year1970": "St. Louis Stair (addition)",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.29097,
+          38.677761
+        ]
+      },
+      "properties": {
+        "address": "6512 Dr. Martin Luther King Drive",
+        "year1970": "Atlas Used Auto Parts and Cars",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.290665,
+          38.678265
+        ]
+      },
+      "properties": {
+        "address": "6515 Dr. Martin Luther King Drive",
+        "year1970": "St. Louis Stair Company",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.291313,
+          38.677921
+        ]
+      },
+      "properties": {
+        "address": "6520 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.290901,
+          38.678539
+        ]
+      },
+      "properties": {
+        "address": "6523 Dr. Martin Luther King Drive",
+        "year1970": "Thompson's Tavern",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.29155,
+          38.678028
+        ]
+      },
+      "properties": {
+        "address": "6528 Dr. Martin Luther King Drive",
+        "year1970": "Wellston News Dealers Wholesale News Dealers",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.291687,
+          38.678089
+        ]
+      },
+      "properties": {
+        "address": "6532 Dr. Martin Luther King Drive",
+        "year1970": "Myrtle Williams Music Teacher",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.291687,
+          38.678089
+        ]
+      },
+      "properties": {
+        "address": "6532 Dr. Martin Luther King Drive",
+        "year1970": "Virgil Nixon",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.291252,
+          38.678742
+        ]
+      },
+      "properties": {
+        "address": "6533 Dr. Martin Luther King Drive",
+        "year1970": "Fill's Conoco Service Station",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.291489,
+          38.67886
+        ]
+      },
+      "properties": {
+        "address": "6539 Dr. Martin Luther King Drive",
+        "year1970": "Pick and Save Grocery",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.291634,
+          38.6791
+        ]
+      },
+      "properties": {
+        "address": "6543 Dr. Martin Luther King Drive",
+        "year1970": "St. Louis Auto Sales and Used Cars",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.291534,
+          38.678402
+        ]
+      },
+      "properties": {
+        "address": "6546 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.29155,
+          38.67841
+        ]
+      },
+      "properties": {
+        "address": "6548 Dr. Martin Luther King Drive",
+        "year1970": "Moog Industries Storage",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.292221,
+          38.679279
+        ]
+      },
+      "properties": {
+        "address": "6601 Dr. Martin Luther King Drive",
+        "year1970": "Clark Oil and Refining (additional space)",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.292313,
+          38.679138
+        ]
+      },
+      "properties": {
+        "address": "6607 Dr. Martin Luther King Drive",
+        "year1970": "Clark Oil and Refining  ",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.29261,
+          38.679482
+        ]
+      },
+      "properties": {
+        "address": "6623 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.292763,
+          38.679562
+        ]
+      },
+      "properties": {
+        "address": "6627 Dr. Martin Luther King Drive",
+        "year1970": "Wellston Auto Radiator Service",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.293129,
+          38.67984
+        ]
+      },
+      "properties": {
+        "address": "6631 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.293541,
+          38.679813
+        ]
+      },
+      "properties": {
+        "address": "6649 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.293304,
+          38.679348
+        ]
+      },
+      "properties": {
+        "address": "6650 Dr. Martin Luther King Drive",
+        "year1970": "Moog Industries Storage",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.29351,
+          38.680031
+        ]
+      },
+      "properties": {
+        "address": "6659 Dr. Martin Luther King Drive",
+        "year1970": "Vacant",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.293503,
+          38.679794
+        ]
+      },
+      "properties": {
+        "address": "6669 Dr. Martin Luther King Drive",
+        "year1970": "Wellston Super Service Gas Station",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.295647,
+          38.679489
+        ]
+      },
+      "properties": {
+        "address": "6670 Dr. Martin Luther King Drive",
+        "year1970": "Flegel Materials Building Materials",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.29361,
+          38.679524
+        ]
+      },
+      "properties": {
+        "address": "6674 Dr. Martin Luther King Drive",
+        "year1970": "Arcadia Feed Mills",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.293564,
+          38.679825
+        ]
+      },
+      "properties": {
+        "address": "6675 Dr. Martin Luther King Drive",
+        "year1970": "Bob's Shell Service",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.293633,
+          38.679539
+        ]
+      },
+      "properties": {
+        "address": "6676 Dr. Martin Luther King Drive",
+        "year1970": "Allhoff Bros. Inc. Building Materials",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.293709,
+          38.679584
+        ]
+      },
+      "properties": {
+        "address": "6682 Dr. Martin Luther King Drive",
+        "year1970": "Coolair Co. Heating Contractors",
+        "city": "St. Louis",
+        "state": "MO"
+      }
+    }
+  ]
+}
