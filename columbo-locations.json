@@ -34,6 +34,23 @@
           34.067222944837205
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "season": 3,
+        "episode": 8,
+        "epname": "A Friend in Deed",
+        "location": "Lariat Club",
+        "address": "Fifth & Wall St., Los Angeles, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24584960937499,
+          34.044912225122054
+        ]
+      }
     }
   ]
 }
