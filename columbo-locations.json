@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "season": 3,
+        "episode": 8,
+        "epname": "A Friend in Deed",
+        "location": "Riviera Country Club",
+        "address": "1250 Capri Drive, Pacific Palisades, Los Angeles, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.50162506103514,
+          34.04974374957697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "season": 3,
+        "episode": 8,
+        "epname": "A Friend in Deed",
+        "location": "Halperin and Caldwell Residence",
+        "address": "355 S Muirfield Rd, Los Angeles, California"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.32903563976286,
+          34.067222944837205
+        ]
+      }
+    }
+  ]
+}
